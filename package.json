@@ -1,0 +1,17 @@
+{
+  "name": "amm-fee-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.0.2",
+    "dotenv": "^16.0.0",
+    "secretjs": "^0.17.5",
+    "siennajs": "^0.1.0"
+  }
+}
