@@ -4,6 +4,10 @@ This is a small project that will allow users to verify the amounts of the accum
 
 ## Run locally
 
+Prerequisites:
+- REST API_URL for a SecretNetwork mainnet node
+- pnpm
+
 ### 1. Clone this repo
 ```bash
 git clone git@github.com:SiennaNetwork/amm-fee-monitor.git
