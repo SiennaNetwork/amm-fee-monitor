@@ -19,7 +19,8 @@ pnpm install
 | Variable | Required/Optional | Default |
 | -------- | -------- | ------- |
 | API_URL  | required      |  null   |
-| BURN_ADDRESS | optional | `secret1mkc8r0q929783k36cshmatx3944c3ktq7c6ht8` |
+| ADDRESS_FEE | optional | `secret1mkc8r0q929783k36cshmatx3944c3ktq7c6ht8` |
+| ADDRESS_LOCK | optional | `secret1v8sunfx66k83u9kvhqz8ly7s29gfdh8yxemj4x` |
 | VIEWING_KEY | optional | `RANDOM_VK_02_03_22` |
 
 4. Run the project
